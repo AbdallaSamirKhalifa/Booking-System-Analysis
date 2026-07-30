@@ -14,7 +14,7 @@ So the system has grown up. It's no longer a meta-search tool — it's a full bo
 - **Reserve & book** directly through the platform — no redirect, no handoff. The system owns the transaction from search to confirmation.
 - **Handle payment** as part of that transaction, not as an external site's problem.
 
-For the full function-by-function breakdown, see [Features & Functions](./FEATURES-FUNCTIONS.md). For how the underlying booking concepts (offers, slices, segments, and the rest) actually work, see the [Business Guide](./BUSINESS-EXPLAINED.md).
+For the full function-by-function breakdown, see [Features & Functions](./FEATURES-FUNCTIONS.md). For how the underlying booking concepts (offers, slices, segments, and the rest) actually work, see the [Domain Guide](./DOMAIN-EXPLAINED.md).
 
 ## Where It Stands
 

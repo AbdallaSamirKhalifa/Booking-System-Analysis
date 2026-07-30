@@ -23,7 +23,7 @@ Represents a journey that the passengers want to make between a particular origi
 
 The `Segment` is the direct plane ride between two stops. Let us break it down a bit more.
 
-- Assuming you want to travel from `Cairo International Airport (CAI)` &rarr; `Dubai Internation Airport (DXP)` which is one direct flight from `CAI` &rarr; `DXB`. This is the Segment. Which is also known as `One way direct trip` since there is no return flight.
+- Assuming you want to travel from `Cairo International Airport (CAI)` &rarr; `Dubai International Airport (DXB)` which is one direct flight from `CAI` &rarr; `DXB`. This is the Segment. Which is also known as `One way direct trip` since there is no return flight.
 
 ### One way direct trip
 
