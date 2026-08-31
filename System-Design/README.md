@@ -3,7 +3,7 @@ High-level design of the system's core modules and how they interact.
 
 <div align="center">
 
-[![High Level Design](./images/booking-initial-HLD.jpg)](https://miro.com/app/board/uXjVHtcJ3_s=/?share_link_id=325636074611)
+[![High Level Design](../images/booking-initial-HLD.jpg)](https://miro.com/app/board/uXjVHtcJ3_s=/?share_link_id=325636074611)
 
 </div>
 
